@@ -23,20 +23,17 @@ o	matplotlib and seaborn for data visualization.
 o	sklearn.datasets for loading the Iris dataset.
 ________________________________________
 How to Run the Project
+
 1.	Clone the repository:
-bash
-Copy code
 git clone https://github.com/faizsatpal/Data-analysis.git
-cd data-analysis-pandas
+
 2.	Install the required libraries:
-bash
-Copy code
 pip install pandas matplotlib seaborn scikit-learn
-3.	Run the script:
-bash
-Copy code
+
+4.	Run the script:
 python data.py
-4.	View the visualizations and results in the terminal and pop-up windows.
+
+6.	View the visualizations and results in the terminal and pop-up windows.
 ________________________________________
 Dataset
 •	Name: Iris Dataset
